@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PalpatinChip
 - 👀 I’m interested in learning Python
-- 🌱 I’m currently learning... Guess?
+- 🌱 I’m currently learning... Guess what?
 - 📫 How to reach me... Nope.
 
 <!---
